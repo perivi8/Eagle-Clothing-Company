@@ -16,7 +16,7 @@ const About: React.FC = () => {
     {
       icon: <Globe className="w-8 h-8" />,
       title: 'Global Reach',
-      description: 'International expertise with local understanding, serving diverse markets across six continents.'
+      description: 'International expertise with local understanding, serving diverse markets worldwide.'
     },
     {
       icon: <Target className="w-8 h-8" />,
@@ -69,7 +69,7 @@ const About: React.FC = () => {
                 Founded in 2024 with a clear vision: to revolutionize B2B apparel manufacturing through advanced technology, sustainable practices, and exceptional quality. Built from day one as a modern, globally-minded manufacturing operation.
               </p>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                In our first year, we've rapidly established ourselves as a trusted partner for B2B clients across 15+ countries, from emerging brands to established retailers. Our commitment to next-generation manufacturing, sustainability, and innovation drives everything we do.
+                In our first year, we've rapidly established ourselves as a trusted partner for B2B clients worldwide, from emerging brands to established retailers. Our commitment to next-generation manufacturing, sustainability, and innovation drives everything we do.
               </p>
               
               <div className="bg-[#F3F4F6] rounded-xl p-6">
